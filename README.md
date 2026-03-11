@@ -10,7 +10,7 @@ Official command portal for the United States Armed Forces roleplay faction.
 - Special Operations Command
 
 ## Website
-https://falinkaa.github.io/usarmedforces.github.io
+https://falinkaa.github.io/usarmedforces
 
 ## Recruitment
 Applications are handled through the enlistment form on the website.
